@@ -33,4 +33,9 @@ a[title="BCIT homepage"] {
     border: 2px solid #ccc;
     padding: 1em;
     } */
+    img {
+        float: left
+    }
+
+    .below {clear:left}
     
