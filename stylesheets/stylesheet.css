@@ -1,0 +1,11 @@
+div > h2{
+    font-style: italic;
+}
+
+div h2 + p {
+    color:red;
+}
+
+div .list {
+    list-style: none;
+}
