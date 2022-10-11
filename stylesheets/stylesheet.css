@@ -25,3 +25,6 @@ li:first-child:first-letter {
     font-size: 120%;
     font-weight: bold;
 }
+a[title="BCIT homepage"] {
+    background-color: yellow;
+}
